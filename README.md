@@ -11,3 +11,5 @@ This is an intro section
 Sample website with plenty of files for demos
 
 ## How to Contribute 
+
+Adding some text on how to contribute
