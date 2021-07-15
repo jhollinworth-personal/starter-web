@@ -3,6 +3,7 @@
 
 # TEAM
 
+	James Hollinworth 
     <name> -- <role> -- <twitter>
 
 # THANKS
